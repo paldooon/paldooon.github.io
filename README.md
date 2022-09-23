@@ -1,2 +1,2 @@
 # paldooon.github.io
-https://paldooon.github.io
+my first page ^^
