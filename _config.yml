@@ -1,2 +1,7 @@
+repository: paldooon/paldooon.github.io
 markdown: kramdown
-theme: minima
+title: home
+url: "https://paldooon.github.io"
+description: my home page.
+plugins:
+  - jekyll-sitemap
