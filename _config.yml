@@ -1,5 +1,7 @@
 repository: paldooon/paldooon.github.io
 markdown: kramdown
 url: "https://paldooon.github.io"
+title: homepage
+description: this is my page that is going to get bigger.
 plugins:
   - jekyll-sitemap
