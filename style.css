@@ -1,5 +1,5 @@
 .header{
-  display:flex;
+  position:fixed;
   left:0px;
   top:0px;
   margin:0;
