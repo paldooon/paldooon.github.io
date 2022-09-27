@@ -1,0 +1,21 @@
+.header{
+  display:flex;
+  left:0px;
+  top:0px;
+  margin:0;
+  background-color:blue;
+  border-bottom:1px solid black;
+}
+.header-logo{
+  padding:10px;
+  margin:10px;
+  float:left;
+}
+.header-list li{
+  padding:5px;
+  margin:5px;
+  float:left;
+}
+.main{
+  text-align:center;
+}
