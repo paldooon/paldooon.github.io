@@ -25,6 +25,6 @@ li{
 .main{
   text-align:center;
 }
-.space{
-  height:100px;
+body{
+  padding-top:100px;
 }
