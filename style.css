@@ -24,5 +24,7 @@ li{
 }
 .main{
   text-align:center;
-  margin-top:100px;
+}
+.space{
+  height:100px;
 }
