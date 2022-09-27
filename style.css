@@ -1,8 +1,5 @@
-body{
-  width:1024px;
-}
 .header{
-  width:1024px;
+  width:100%;
   position:fixed;
   left:0px;
   top:0px;
