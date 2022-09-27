@@ -1,3 +1,6 @@
+body{
+  width:1024px;
+}
 .header{
   width:100%;
   position:fixed;
