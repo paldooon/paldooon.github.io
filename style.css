@@ -26,3 +26,15 @@ li{
   text-align:center;
   padding-top:100px;
 }
+table{
+  border-collapse:collapse;
+  width:100%;
+}
+.left{
+  width:70%;
+  border-right:1px solid black;
+}
+.right{
+  width:30%;
+  border-left:1px solid black;
+}
